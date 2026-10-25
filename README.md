@@ -1,4 +1,4 @@
 # mini-desktop-language-clock-case
-Case design for the Mini Desktop Language Clock
+Case design made to hold a Raspberry Pi Pico W attached to a Pimoroni Pico Display Pack 2.8"
 
-Made to hold a Raspberry Pi Pico W attached to a Pimoroni Pico Display Pack 2.8"
+![Case Screenshot](case-screenshot.png)
